@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Murshid Ahsan Ali
 
-<!--
-**murshidl/murshidl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+🔐 Cybersecurity Enthusiast | 💻 MERN Stack Developer  
+📍 India | Open to Internships & Collaborations
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring developer with a strong interest in building secure and scalable applications.  
+Experienced with full-stack projects and basic cybersecurity practices through internships at RDL Technologies and Pentagon Space.
+
+🛠 Skills: React.js, Node.js, MongoDB, Python, VAPT, Ethical Hacking, Cryptography  
+📂 Projects: E-commerce Security Testing, Fabric Stitch Detection (YOLOv8), Crime Prevention System  
+
+📧 murshidali501@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/your-link)  
