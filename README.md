@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_PROFILE_PICTURE_URL_HERE" alt="Murshid Ahsan Ali" width="150" style="border-radius:50%; margin-bottom: 20px;">
+ 
   <h1>Hi 👋, I'm Murshid Ahsan Ali</h1>
   <p>Third Year Student [cite: 1] | Tech passionate | Aspiring Full-Stack Developer & Cybersecurity Enthusiast</p>
 </div>
@@ -70,5 +70,3 @@
 * **Cryptography I** - Stanford University via Coursera Certification
 
 ---
-
-**Note:** Remember to replace `YOUR_PROFILE_PICTURE_URL_HERE` with the actual URL of your profile picture and `YOUR_LINKEDIN_PROFILE_URL` with your actual LinkedIn profile link.
