@@ -1,27 +1,27 @@
 <div align="center">
  
   <h1>Hi 👋, I'm Murshid Ahsan Ali</h1>
-  <p>Third Year Student [cite: 1] | Tech passionate | Aspiring Full-Stack Developer & Cybersecurity Enthusiast</p>
+  <p>Third Year Student | Tech passionate | Aspiring Full-Stack Developer & Cybersecurity Enthusiast</p>
 </div>
 
 ---
 
 ### 🔭 I’m currently working on
-* Developing full-stack applications using the MERN stack[cite: 5].
-* Enhancing AI-powered systems for real-time crime prevention[cite: 12].
+* Developing full-stack applications using the MERN stack.
+* Enhancing AI-powered systems for real-time crime prevention.
 
 ### 🌱 I’m currently learning
-* Advanced concepts in React JS and Node.js for scalable web solutions[cite: 15].
-* Deep learning frameworks like TensorFlow and Keras for computer vision applications[cite: 10, 12].
-* In-depth cybersecurity techniques and ethical hacking methodologies[cite: 15].
+* Advanced concepts in React JS and Node.js for scalable web solutions.
+* Deep learning frameworks like TensorFlow and Keras for computer vision applications.
+* In-depth cybersecurity techniques and ethical hacking methodologies.
 
 ### 📫 How to reach me
-* 📧 murshidali501@gmail.com [cite: 1]
+* 📧 murshidali501@gmail.com
 
 ### Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=vercel&logoColor=white)](https://murshidport-v2x5.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE_URL)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-28A745?style=for-the-badge&logo=vercel&logoColor=white)](https://murshidport-v2x5.vercel.app/)  
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:murshidali501@gmail.com)
 
 ---
@@ -54,19 +54,17 @@
 
 ### 🌟 Highlights & Achievements:
 
-* **Successfully launched 5+ customer-centric solutions** as an intern at RDL Technologies Pvt Ltd, receiving positive feedback from end-users and stakeholders[cite: 3].
-* **Increased team efficiency by 20%** in project execution by establishing a new framework based on cross-functional team insights[cite: 4].
-* **Identified 28 vulnerabilities** including SQL Injection and XSS in an E-Commerce platform, enhancing its security posture by 30%[cite: 7, 8].
-* Developed an advanced **Fabric Stitch Detection tool** using YOLOv8, increasing quality check speed by 75% in textile manufacturing[cite: 10].
-* Created an **AI-powered Crime Prevention System** utilizing YOLO for real-time object detection and suspicious activity recognition, enabling automated alerts for law enforcement[cite: 12, 13, 14].
+* **Successfully launched 5+ customer-centric solutions** as an intern at RDL Technologies Pvt Ltd, receiving positive feedback from end-users and stakeholders.
+* **Increased team efficiency by 20%** in project execution by establishing a new framework based on cross-functional team insights.
+* **Identified 28 vulnerabilities** including SQL Injection and XSS in an E-Commerce platform, enhancing its security posture by 30%.
+* Developed an advanced **Fabric Stitch Detection tool** using YOLOv8, increasing quality check speed by 75% in textile manufacturing.
+* Created an **AI-powered Crime Prevention System** utilizing YOLO for real-time object detection and suspicious activity recognition, enabling automated alerts for law enforcement.
 
 ---
 
 ### 🎓 Education & Certifications:
 
-* **Bachelor of Engineering in Computer Science** - Sahyadri College of Engineering and Management (GPA: 7/10) [cite: 1]
-* **Ethical Hacking** - Internshala Certification
-* **Database and SQL** - Infosys Springboard Certification
+* **Bachelor of Engineering in Computer Science** - Sahyadri College of Engineering and Management (GPA: 7/10)
+* **Ethical Hacking** - Internshala Certification  
+* **Database and SQL** - Infosys Springboard Certification  
 * **Cryptography I** - Stanford University via Coursera Certification
-
----
