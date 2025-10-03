@@ -8,16 +8,16 @@
 ---
 
 ## 🔭 What I’m Working On  
-- Developing **scalable full-stack applications** using the MERN stack  
-- Building **AI-powered systems** for real-time surveillance & crime prevention  
-- Exploring **penetration testing** and cybersecurity frameworks  
+- Full-stack web applications with **MERN stack**  
+- AI projects for **computer vision & security**  
+- Exploring **cybersecurity & ethical hacking**  
 
 ---
 
 ## 🌱 What I’m Learning  
-- Advanced **React.js & Node.js** for enterprise-level applications  
-- **Deep learning (TensorFlow & Keras)** for computer vision and predictive modeling  
-- **Cybersecurity techniques**: penetration testing, web security & ethical hacking  
+- **React.js & Node.js** for modern web apps  
+- **Deep learning** with TensorFlow & Keras  
+- **Web security & penetration testing**  
 
 ---
 
@@ -55,11 +55,11 @@
 ---
 
 ## 🌟 Highlights & Achievements  
-- 🚀 **Launched 5+ customer-centric solutions** as an intern at RDL Technologies Pvt Ltd, with positive feedback from clients  
-- ⚡ **Boosted project efficiency by 20%** through a new cross-functional development framework  
-- 🔒 **Identified & fixed 28+ vulnerabilities** (SQLi, XSS, etc.) in an e-commerce platform, improving security by 30%  
-- 🧵 Built an **AI-powered Fabric Stitch Detection tool (YOLOv8)**, cutting inspection time by 75% in textile manufacturing  
-- 🕵️ Developed an **AI-driven Crime Prevention System** with YOLO for real-time surveillance and automated alerts  
+- 🚀 **Launched 5+ customer-centric solutions** as an intern at RDL Technologies Pvt Ltd  
+- ⚡ **Improved project efficiency by 20%** through better workflows  
+- 🔒 **Fixed 28+ vulnerabilities** (SQLi, XSS, etc.) in an e-commerce platform  
+- 🧵 Built an **AI-powered Fabric Stitch Detection tool (YOLOv8)**, cutting inspection time by 75%  
+- 🕵️ Developed an **AI-driven Crime Prevention System** with YOLO for real-time surveillance and alerts  
 
 ---
 
@@ -73,9 +73,9 @@
 
 ## 🎯 Career Goals  
 I am passionate about **Full-Stack Development**, **AI/ML**, and **Cybersecurity**.  
-Currently, I am seeking **full-time opportunities** where I can:  
+Currently seeking **full-time opportunities** to:  
 - Build impactful applications  
-- Strengthen cybersecurity defenses  
-- Contribute to AI-powered solutions for real-world challenges  
+- Strengthen cybersecurity systems  
+- Work on AI-powered solutions for real-world challenges  
 
 ---
